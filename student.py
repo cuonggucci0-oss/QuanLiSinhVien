@@ -1,1 +1,1 @@
-print('Chuc nang quan ly sinh vien')
+print('Quan ly sinh vien')
